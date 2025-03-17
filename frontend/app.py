@@ -5,8 +5,8 @@ from datetime import datetime
 import json
 import time
 
-# API URL - Change this to your Flask backend URL
-API_URL = "http://localhost:5000"
+# API URL - Flask backend URL
+API_URL = "https://library-management-server.up.railway.app"
 
 # Page configuration
 st.set_page_config(
